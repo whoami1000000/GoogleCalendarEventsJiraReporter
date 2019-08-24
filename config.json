@@ -1,0 +1,13 @@
+{
+  "calendar": {
+    "installed": "put here file content from this page https://developers.google.com/calendar/quickstart/python"
+  },
+  "jira": {
+    "url": "put your url here",
+    "username": "put your username here",
+    "password": "put your password here",
+    "task": "put jira task id here"
+  },
+  "scan_last_days" : 10,
+  "ignored_events" : ["lunch", "breakfast"]
+}
